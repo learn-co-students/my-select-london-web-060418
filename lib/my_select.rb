@@ -6,6 +6,5 @@ def my_select(array)
         new_array.push element
       end
     end
-
   new_array
 end
